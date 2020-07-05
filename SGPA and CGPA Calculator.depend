@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1593884697 source:c:\users\dell\desktop\sgpa and cgpa calculator\main.cpp
+	<iostream>
+	<string>
+
